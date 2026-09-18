@@ -1,0 +1,18 @@
+
+# Changelog - Bright Spark Electrical Website
+
+All notable changes and commits for this project are logged below:
+
+## [1.2.0] - 2026-08-12
+### Added
+- Integrated high-resolution industrial electrical and solar photography from Unsplash.
+- Added embedded map frame pointing to Polokwane coverage region on `contact.html`.
+
+## [1.1.0] - 2026-08-10
+### Added
+- Configured structured service selection fields and quote inputs on `enquiry.html`.
+- Implemented company mission, history, and ECA SA accreditation details on `aboutus.html`.
+
+## [1.0.0] - 2026-08-05
+### Added
+- Initialized repository with multi-page HTML semantic skeleton and inter-linked header navigation menu.
